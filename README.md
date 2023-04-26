@@ -28,7 +28,7 @@ Both are not working and fail with a timeout exception.
 
 ## Test from Azure peered VNet
 
-We first create a virtual machine in the above created Azure virtual network (be aware that they both to be in the same region).
+We first create a virtual machine in the above created Azure virtual network (be aware that they both need to be in the same region).
 We connect into the VM using SSH (how to is well explained in the Azure portal).
 
 We need to download and install
